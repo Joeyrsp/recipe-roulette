@@ -1,0 +1,46 @@
+recipe
+pasta
+ingredients
+1x onion
+200g pasta
+30ml tomato paste
+
+recipe
+beans
+ingredients
+10tbsp beans
+
+recipe
+oven fries
+ingredients
+1x bag of oven fries
+
+recipe
+meatballs
+ingredients
+600g beef mince
+2x onion
+2x clove of garlic
+1x can of diced tomato
+1tbsp olive oil
+1x egg
+
+recipe
+bacon and eggs
+ingredients
+3x egg
+4x bacon rasher
+1x avocado
+2x slice of bread
+100g cheese
+
+recipe
+bog
+ingredients
+1kg beef mince
+350g carrot
+350g onion
+350g celery
+2x pasta sauce
+2x can of diced tomato
+1x tomato paste
