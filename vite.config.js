@@ -8,7 +8,7 @@ export default {
             localsConvention: "camelCase",
         },
     },
-    base: "/recipe_roulette/",
+    base: "/recipe-roulette/",
     root: "src",
     build: {
         outDir: "../docs",

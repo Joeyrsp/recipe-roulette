@@ -1,7 +1,7 @@
 {
     "short_name": "Hyperapp",
-    "name": "Hyperapp starter",
-    "description": "Hyperapp starter with a modern configuration and best-practices in mind.",
+    "name": "Recipe Roulette",
+    "description": "Recipe Roulette: the saviour of the brainless evening!",
     "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
